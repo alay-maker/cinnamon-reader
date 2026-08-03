@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Entornos virtuales de Python
+venv/
+env/
+.venv/
+
+# Caché y archivos compilados
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Datos (NUNCA SUBIR AL REPOSITORIO)
+data/
+models/*.bin
+models/*.zarr
+
+# Archivos de entorno (contraseñas o tokens si los hubiera)
+.env

@@ -1,0 +1,6 @@
+# Core de IA y Matemáticas
+numpy==1.26.4
+gensim==4.3.2
+
+# Interfaz Gráfica de la Herramienta
+streamlit==1.36.0
